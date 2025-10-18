@@ -38,7 +38,7 @@ bank-marketing-app
 
 To run the Streamlit application, execute the following command in your terminal:
 ```
-streamlit run src/app.py
+streamlit run app.py
 ```
 
 This will start a local web server, and you can access the application in your web browser at `http://localhost:8501`.
