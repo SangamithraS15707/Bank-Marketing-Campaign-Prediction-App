@@ -4,8 +4,8 @@ import numpy as np
 import pandas as pd
 
 # Load the saved pipeline (which includes preprocessing + trained model)
-preprocess=joblib.load("src\preprocessor (2).joblib")
-model=joblib.load("src\log_reg_model (2).joblib")
+preprocess=joblib.load("preprocessor (2).joblib")
+model=joblib.load("log_reg_model (2).joblib")
 
 st.title("Bank Marketing Campaign Prediction App")
 st.write("Predict whether the client will subscribe to a term deposit (y).")
