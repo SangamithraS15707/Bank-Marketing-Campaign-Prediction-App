@@ -20,8 +20,8 @@ bank-marketing-app
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
-   cd bank-marketing-app
+   git clone https://github.com/SangamithraS15707/Bank-Marketing-Campaign-Prediction-App.git
+   cd Bank-Marketing-Campaign-Prediction-App
    ```
 
 2. Create a virtual environment (optional but recommended):
