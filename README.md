@@ -6,14 +6,13 @@ This project is a web application built using Streamlit that predicts whether a 
 
 ```
 bank-marketing-app
-├── src
-│   ├── app.py                # Main application code
-│   ├── pipeline.pkl          # Serialized model with preprocessing steps
-│   └── utils
-│       └── __init__.py       # Initialization file for utils package
-├── requirements.txt          # Python dependencies
-├── .gitignore                # Files and directories to ignore by Git
-└── README.md                 # Project documentation
+
+├── app.py                          # Main application code
+├── log_reg_model (2).joblib        #model to make predictions
+├──preprocessor (2).joblib          # preprocessing steps to make the data perfect for prediction
+├──__init__.py                      # Initialization file for utils package
+├── requirements.txt                # Python dependencies
+└── README.md                       # Project documentation
 ```
 
 ## Installation
