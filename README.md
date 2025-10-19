@@ -1,6 +1,6 @@
 # Bank Marketing Campaign Prediction App
 
-This project is a web application built using Streamlit that predicts whether a client will subscribe to a term deposit based on various input features related to a bank marketing campaign.
+This project is a web application built using Streamlit that predicts whether a client will subscribe to a term deposit based on various input features related to a bank marketing campaign using logistic regression.
 
 ## Project Structure
 
